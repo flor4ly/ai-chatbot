@@ -45,7 +45,7 @@ Get your API key from [Google AI Studio](https://aistudio.google.com/app/apikey)
 npm run dev
 ```
 
-5. Open [http://localhost:3000](http://localhost:3000) in your browser.
+5. Open [http://localhost:3001](http://localhost:3001) in your browser.
 
 ## 🎯 Usage
 
